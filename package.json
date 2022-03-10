@@ -1,0 +1,15 @@
+{
+  "name": "express-wisdom",
+  "version": "1.0.0",
+  "description": "A simple api for showing two endpoints: greeting and wisdom",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "paulo dichone",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
